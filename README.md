@@ -36,7 +36,7 @@ ut It' still proof of way to break minecraft way more than anyone would ever ant
 (In my decade long career with MC, Ive been breaking this game in all ways possible, so deleting whole .minecraft folder, and even a launcher is no stranger to me, did it countless times, always worked... Always untill today :) 
 That made me consider it something possibly worth noting which itself is pretty damn rare and maybe even hard to reproduce
 
-Either way, there is my mystery box with hits of how it all went up.
+Either way, there is my mystery box of hints in how it all went up.
 (IF YOU DETECT SOME INCONSTANCY WITHIN MY LOGS OR OBVIOUS MISTAKES FEEL FREE TO COMMENT ON HERE)
 (IF YOU EVER NEED ANY EXTRA LOGS FROM WITHIN, HIT ME UP SO I DROP EVERYTHING I HAVE)
 If by any chance that turned out to be more complicated than expected, Im able to make iso copy of my whole system + whole chunk of HDD with game so It would

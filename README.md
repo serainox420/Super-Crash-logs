@@ -30,5 +30,3 @@ During super crash Ive been running probabbly on Java 11, and with 2 GB ram only
 
 Feel free to take a look and try to crack this quite unusual event.
 
-
-- 

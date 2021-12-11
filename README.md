@@ -29,4 +29,15 @@ JS Macros which triggers Baritone, also beign nearby dozens of command blocks, c
 During super crash Ive been running probabbly on Java 11, and with 2 GB ram only.
 
 Feel free to take a look and try to crack this quite unusual event.
+If you dont find out yourself, send it to more people, even Mojang themselves if you feel like its really something worth the time)
 
+In worst case, its me who somewhat helped myself in getting into this point... B
+ut It' still proof of way to break minecraft way more than anyone would ever anticipated before, which Is also good thing to eventually understand.
+(In my decade long career with MC, Ive been breaking this game in all ways possible, so deleting whole .minecraft folder, and even a launcher is no stranger to me, did it countless times, always worked... Always untill today :) 
+That made me consider it something possibly worth noting which itself is pretty damn rare and maybe even hard to reproduce
+
+Either way, there is my mystery box with hits of how it all went up.
+(IF YOU DETECT SOME INCONSTANCY WITHIN MY LOGS OR OBVIOUS MISTAKES FEEL FREE TO COMMENT ON HERE)
+(IF YOU EVER NEED ANY EXTRA LOGS FROM WITHIN, HIT ME UP SO I DROP EVERYTHING I HAVE)
+If by any chance that turned out to be more complicated than expected, Im able to make iso copy of my whole system + whole chunk of HDD with game so It would
+almost guarantee you to be able to reproduce it yourself on virtual machine.

@@ -1,5 +1,7 @@
 # Super-Crash-logs
 
+EDIT: Actually found earlier logs, uploading whole folder.
+
 Long story short.
 My minecraft 1.17.1 Aristois got supercrashed apparently as nothing would fix the issue, including dumping .minecraft, reinstalling launcher and fabric.
 

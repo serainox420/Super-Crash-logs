@@ -14,7 +14,7 @@ Im not expecting anyone to help me fix it as I bet its as easy as dumping whole 
 
 Whole point is to analyse it trougly to determine if:
 - Its me who's dumb
-- 
+ 
 - It had something to do with recent mojang exploit (https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition)
 - as it happened within short time frames betwen. 
 - Which could effectively make it one time event, still interesting and worth noting.

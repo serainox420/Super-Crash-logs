@@ -1,0 +1,32 @@
+13:56:55.963
+Preparing to launch minecraft client for 1.17.1-Aristois
+13:56:56.226
+Couldn't fetch SHA1 checksum for http://s3.amazonaws.com/Minecraft.Download/indexes/legacy.json
+13:56:56.227
+Have local file /home/Sixty/.minecraft/assets/indexes/legacy.json but don't know what size or hash it should be. Have to assume it's good.
+13:56:56.227
+Prepared asset index
+13:56:56.367
+Have 597 total files to check or download
+13:56:56.369
+Waiting for 597 futures
+13:56:56.888
+Couldn't fetch SHA1 checksum for https://s3.amazonaws.com/Minecraft.Download/versions/1.17.1-Aristois/1.17.1-Aristois.jar
+13:56:56.888
+Have local file /home/Sixty/.minecraft/versions/1.17.1-Aristois/1.17.1-Aristois.jar but don't know what size or hash it should be. Have to assume it's good.
+13:56:56.890
+Minecraft client 1.17.1-Aristois is ready to start.
+13:56:56.890
+Starting!
+13:56:56.890
+Nothing to download!
+13:56:56.890
+Nothing to extract!
+13:56:56.890
+Version does not support log configuration, will assume one plaintext entry per line
+13:56:56.893
+Reconstructing virtual assets!
+13:56:56.893
+Asset /home/Sixty/.minecraft/assets/objects/0d/0d000710b71ca9aafabd8f587768431d0b560b32 to /home/Sixty/.minecraft/assets/virtual/legacy/READ_ME_I_AM_VERY_IMPORTANT.txt
+13:56:56.895
+Asset /home/Sixty/.minecraft/assets/objects/bd/bdf48ef6b5d0d23bbb02e17d04865216179f510a to /home/Sixty/.minecraft/assets/virtual/legacy/icons/icon_16x16.png

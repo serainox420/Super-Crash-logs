@@ -1,0 +1,10 @@
+https://launchermeta.mojang.com/v1/products/launcher/bb3355e087ada56549e6342233b57bf65d9d7147/linux.json
+[1211/135634.819481:INFO:main_context.cpp(136)] CEF initialized successfully.
+[1211/135634.819573:INFO:main_context.cpp(138)] CEF version: 86.0.23+ga2c2edf+chromium-86.0.4240.193
+[1211/135634.916451:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+sh: 1: orca: not found
+Created browser window for reuse: 0x6e00001
+Created browser window for reuse: 0x6e00007
+
+(minecraft-launcher:27568): Gtk-WARNING **: 13:57:00.267: gtk_window_present_with_time() should not be called with 0, or GDK_CURRENT_TIME as a timestamp, the timestamp should instead be gathered at the time the user initiated the request for the window to be shown
+

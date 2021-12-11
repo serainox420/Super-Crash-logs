@@ -2,6 +2,8 @@
 
 ## EDIT: Actually found earlier logs, uploading whole folder.
 
+### First log of it is actually within Crash Logs archive. Predates previously tought to be first log of around 6 hours.
+
 Long story short.
 My minecraft 1.17.1 Aristois got supercrashed apparently as nothing would fix the issue, including dumping .minecraft, reinstalling launcher and fabric.
 
